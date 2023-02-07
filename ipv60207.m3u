@@ -31,19 +31,19 @@ http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225488/2/index.
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225484/2/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.com/tv/湖南卫视.png" group-title="卫视IPV6",湖南卫视
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225704/index.m3u8
-#EXTINF:-1,tvg-id="" tvg-name="IPTV少儿动画" tvg-logo="https://epg.112114.xyz/logo/IPTV少儿动画.png" group-title="其他",动画HD
+#EXTINF:-1,tvg-id="" tvg-name="IPTV少儿动画" tvg-logo="https://epg.112114.xyz/logo/IPTV少儿动画.png" group-title="动画",动画HD
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225716/2/index.m3u8
-#EXTINF:-1,tvg-id="" tvg-name="湖南金鹰卡通" tvg-logo="https://epg.112114.xyz/logo/湖南金鹰卡通.png" group-title="其他",金鹰卡通
+#EXTINF:-1,tvg-id="" tvg-name="湖南金鹰卡通" tvg-logo="https://epg.112114.xyz/logo/湖南金鹰卡通.png" group-title="动画",金鹰卡通
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225721/2/index.m3u8
-#EXTINF:-1,tvg-id="嘉佳卡通" tvg-name="嘉佳卡通" tvg-logo="https://epg.112114.xyz/logo/嘉佳卡通.png" group-title="其他",嘉佳卡通 
+#EXTINF:-1,tvg-id="嘉佳卡通" tvg-name="嘉佳卡通" tvg-logo="https://epg.112114.xyz/logo/嘉佳卡通.png" group-title="动画",嘉佳卡通 
 https://live.v1.mk/aishang/jjkt
-#EXTINF:-1,tvg-id="新动漫" tvg-name="新动漫" tvg-logo="https://epg.112114.xyz/logo/新动漫.png" group-title="其他",新动漫
+#EXTINF:-1,tvg-id="新动漫" tvg-name="新动漫" tvg-logo="https://epg.112114.xyz/logo/新动漫.png" group-title="动画",新动漫
 https://live.v1.mk/aishang/xdm
-#EXTINF:-1 ,山东综艺
+#EXTINF:-1,tvg-id="山东综艺" tvg-name="山东综艺" tvg-logo="https://epg.112114.xyz/logo/山东综艺.png" group-title="山东地方台",山东综艺
 http://119.164.216.162:9901/tsfile/live/1001_1.m3u8
-#EXTINF:-1 ,山东体育
+#EXTINF:-1,tvg-id="山东体育" tvg-name="山东体育" tvg-logo="https://epg.112114.xyz/logo/山东体育.png" group-title="山东地方台",山东体育
 http://119.164.216.162:9901/tsfile/live/1002_1.m3u8
-#EXTINF:-1 ,山东少儿
+#EXTINF:-1,tvg-id="山东少儿" tvg-name="山东少儿" tvg-logo="https://epg.112114.xyz/logo/山东少儿.png" group-title="山东地方台",山东少儿
 http://119.164.216.162:9901/tsfile/live/1006_1.m3u8
-#EXTINF:-1 ,山东齐鲁
+#EXTINF:-1,tvg-id="山东齐鲁" tvg-name="山东齐鲁" tvg-logo="https://epg.112114.xyz/logo/山东齐鲁.png" group-title="山东地方台",山东齐鲁
 http://119.164.216.162:9901/tsfile/live/1003_1.m3u8
