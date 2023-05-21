@@ -13,16 +13,14 @@ http://cntv.sbs/ipv6?id=CCTV-5H265
 http://cntv.sbs/ipv6?id=CCTV-5plusH265
 #EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png" group-title="央视",CCTV-6
 http://cntv.sbs/ipv6?id=CCTV-6H265
-#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://live.fanmingming.com/tv/CCTV7.png" group-title="央视",CCTV-7
-http://cntv.sbs/ipv6?id=CCTV-7H265
+
 #EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://live.fanmingming.com/tv/CCTV8.png" group-title="央视",CCTV-8
 http://cntv.sbs/ipv6?id=CCTV-8H265
 #EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://live.fanmingming.com/tv/CCTV9.png" group-title="央视",CCTV-9
 http://cntv.sbs/ipv6?id=CCTV-9H265
 #EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://live.fanmingming.com/tv/CCTV10.png" group-title="央视",CCTV-10
 http://cntv.sbs/ipv6?id=CCTV-10H265
-#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://live.fanmingming.com/tv/CCTV11.png" group-title="央视",CCTV-11
-http://cntv.sbs/ipv6?id=CCTV-11-H265
+
 #EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://live.fanmingming.com/tv/CCTV12.png" group-title="央视",CCTV-12
 http://cntv.sbs/ipv6?id=CCTV-12H265
 #EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png" group-title="央视",CCTV-13
@@ -33,8 +31,7 @@ http://cntv.sbs/ipv6?id=CCTV-14H265
 http://cntv.sbs/ipv6?id=CCTV-15-yyH265
 #EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="央视",CCTV-16
 http://cntv.sbs/ipv6?id=CCTV-16
-#EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="央视",CCTV-17
-http://cntv.sbs/ipv6?id=CCTV-17
+
 
 
 #EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视资讯台.png" group-title="香港",凤凰资讯
